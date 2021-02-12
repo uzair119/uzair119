@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on TypeScript, Node.js, Angular, PostgreSQL, AWS
 - 🌱 I’m currently learning to be better at these^ + ELK stack & Terraform
 - 👯 I’m looking to collaborate on anything interesting
